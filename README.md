@@ -1,5 +1,5 @@
 - 👋 Hi
-- 👀 I’m interested in web stuff
+- 👀 I’m interested in web stuff,Java,C++,C,C# you name it......
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on web dev
 - 📫 How to reach me📧
